@@ -24,7 +24,7 @@ SAUKYADANA allows users to **book ambulances without registration**, track the r
 
 | Frontend | Backend | Database | Comms/Other |
 |---|---|---|---|
-| HTML5, CSS3, JavaScript, Bootstrap/Tailwind | PHP | MySQL | Live Chat, Email Gateway, SLF4J Logging |
+| HTML5, CSS3, JavaScript, Bootstrap/Tailwind | PHP | MySQL | Live Chat, Chat Bot, Secure Logging |
 
 ---
 
