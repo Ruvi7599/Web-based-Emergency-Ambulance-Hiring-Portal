@@ -1,9 +1,8 @@
-# 🩺 සෞඛ්‍යදාන (SAUKYADANA) - Web-Based Advance Emergency Ambulance Hiring Portal
+# 🩺 සෞඛ්‍යදාන (SAUKYADANA) - Web-Based Advance Emergency Ambulance Hiring Portal  
 
 <p align="center">
-  <img src="Project-Materials/Transparent-logo.png" alt="SAUKYADANA Logo" width="1200" height="1200" style="border-radius:50%;"/>
+  <img src="Project-Materials/Transparent-logo.png" alt="SAUKYADANA Logo" width="400"/>
 </p>
-
 
 A **web-based emergency ambulance hiring portal** designed to provide **fast, secure, and user-friendly access** to ambulance services in Sri Lanka.  
 SAUKYADANA allows users to **book ambulances without registration**, track them in real-time, and communicate efficiently with medical service providers.
@@ -12,12 +11,43 @@ SAUKYADANA allows users to **book ambulances without registration**, track them 
 
 ## 🚀 Features
 
-- **Emergency Booking Without Account**: Users can request an ambulance using **ID, phone number, or name**.
-- **Real-Time Ambulance Tracking**: Track ambulance location during emergencies.
-- **Live Chat & Chatbot Support**: Instant assistance for users’ queries.
-- **Admin Dashboard**: Manage bookings, update content, generate reports, and track ambulance status.
-- **Secure & Privacy-Focused**: All user data is encrypted and securely handled.
-- **Responsive UI**: Works on **desktop, tablet, and mobile devices**.
+- **Emergency Booking Without Account**: Users can request an ambulance using **ID, phone number, or name**.  
+- **Real-Time Ambulance Tracking**: Track ambulance status and progress live.  
+- **Live Chat & Chatbot Support**: Instant assistance for users’ queries.  
+- **Admin Dashboard**: Manage bookings, track ambulances, generate reports.  
+- **Secure & Privacy-Focused**: All user data is encrypted and securely handled.  
+- **Responsive UI**: Works seamlessly on **desktop, tablet, and mobile devices**.  
+
+---
+
+## 🖼️ User Interfaces (Screenshots)
+
+### 🏠 Home Page  
+![Home 01](home_01.png)  
+![Home 02](home_02.png)  
+
+### 🚑 Hire an Ambulance  
+![Hire Ambulance](hire_ambulance.png)  
+
+### 📍 Ambulance Tracking  
+![Ambulance Tracking](ambulance_track.png)  
+![Booking Details](booking_details_ambulance.png)  
+
+### 📊 Admin Dashboard  
+![Admin Dashboard](admindashbaord.png)  
+
+### 💬 Communication  
+- **Live Chat Signup**  
+  ![Live Chat Signup](Saukyadana_livechat_signup.png)  
+
+- **Chatbox (User List)**  
+  ![Chatbox](chatbox.png)  
+
+- **Chat View**  
+  ![Chat View](chat-view.png)  
+
+- **Chatbot Assistant**  
+  ![Chatbot](chatbot.png)  
 
 ---
 
@@ -32,27 +62,24 @@ SAUKYADANA allows users to **book ambulances without registration**, track them 
 ## 📂 System Components
 
 ### User Roles
-
 - **Administrator**
-  - Manage ambulance bookings
-  - Handle live chat and chatbot responses
-  - Update web content and generate reports
-- **Booking Person / Booking In-Charge**
-  - Make ambulance bookings
-  - Track ambulance location during emergencies
+  - Manage ambulance bookings  
+  - Handle live chat and chatbot responses  
+  - Update web content and generate reports  
+- **Booking Person / In-Charge**
+  - Make ambulance bookings  
+  - Track ambulance location  
 
 ### Functionalities
-
 - Ambulance booking & management  
-- Real-time location tracking  
-- Chat and automated responses  
-- Report generation and email notifications  
+- Real-time tracking  
+- Live chat + Chatbot assistance  
+- Report generation & notifications  
 
 ### Non-Functional Requirements
-
-- Performance: Low-latency ambulance tracking  
-- Security: Data encryption and secure login for admin  
-- Accessibility: Mobile-friendly design for rural areas  
+- **Performance**: Low-latency ambulance tracking  
+- **Security**: Data encryption + secure admin login  
+- **Accessibility**: Mobile-friendly design for rural areas  
 
 ---
 
