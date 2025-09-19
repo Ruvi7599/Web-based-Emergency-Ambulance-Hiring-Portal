@@ -1,6 +1,9 @@
 # 🩺 සෞඛ්‍යදාන (SAUKYADANA) - Web-Based Advance Emergency Ambulance Hiring Portal
 
-![SAUKYADANA Logo](Project-Materials/Transparent-logo.png)
+<p align="center">
+  <img src="Project-Materials/Transparent-logo.png" alt="SAUKYADANA Logo" width="120" height="120" style="border-radius:50%;"/>
+</p>
+
 
 A **web-based emergency ambulance hiring portal** designed to provide **fast, secure, and user-friendly access** to ambulance services in Sri Lanka.  
 SAUKYADANA allows users to **book ambulances without registration**, track them in real-time, and communicate efficiently with medical service providers.
