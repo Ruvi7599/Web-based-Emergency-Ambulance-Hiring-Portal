@@ -1,7 +1,7 @@
 # 🩺 සෞඛ්‍යදාන (SAUKYADANA) - Web-Based Advance Emergency Ambulance Hiring Portal
 
 <p align="center">
-  <img src="Project-Materials/Transparent-logo.png" alt="SAUKYADANA Logo" width="120" height="120" style="border-radius:50%;"/>
+  <img src="Project-Materials/Transparent-logo.png" alt="SAUKYADANA Logo" width="1200" height="1200" style="border-radius:50%;"/>
 </p>
 
 
