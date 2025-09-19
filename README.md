@@ -85,8 +85,6 @@ SAUKYADANA/
 ---
 
 ## 🧭 System Architecture
-
-*(Removed “Ambulance Tracking API” as requested.)*
 ---
 
 ## ⬇️ Clone the Repository
