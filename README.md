@@ -23,31 +23,31 @@ SAUKYADANA allows users to **book ambulances without registration**, track them 
 ## 🖼️ User Interfaces (Screenshots)
 
 ### 🏠 Home Page  
-![Home 01](home_01.png)  
-![Home 02](home_02.png)  
+![Home 01](ui/home_01.png)  
+![Home 02](ui/home_02.png)  
 
 ### 🚑 Hire an Ambulance  
-![Hire Ambulance](hire_ambulance.png)  
+![Hire Ambulance](ui/hire_ambulance.png)  
 
 ### 📍 Ambulance Tracking  
-![Ambulance Tracking](ambulance_track.png)  
-![Booking Details](booking_details_ambulance.png)  
+![Ambulance Tracking](ui/ambulance_track.png)  
+![Booking Details](ui/booking_details_ambulance.png)  
 
 ### 📊 Admin Dashboard  
-![Admin Dashboard](admindashbaord.png)  
+![Admin Dashboard](ui/admindashbaord.png)  
 
 ### 💬 Communication  
 - **Live Chat Signup**  
-  ![Live Chat Signup](Saukyadana_livechat_signup.png)  
+  ![Live Chat Signup](ui/Saukyadana_livechat_signup.png)  
 
 - **Chatbox (User List)**  
-  ![Chatbox](chatbox.png)  
+  ![Chatbox](ui/chatbox.png)  
 
 - **Chat View**  
-  ![Chat View](chat-view.png)  
+  ![Chat View](ui/chat-view.png)  
 
 - **Chatbot Assistant**  
-  ![Chatbot](chatbot.png)  
+  ![Chatbot](ui/chatbot.png)  
 
 ---
 
